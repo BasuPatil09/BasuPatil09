@@ -60,74 +60,45 @@ The goal is consistent — turn AI/ML capabilities into **usable, measurable, pr
 
 ---
 
-## AI/ML Engineering
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [Smart Parking System](https://github.com/BasuPatil09/Smart-Parking-System)
 
-### Machine Learning
+`YOLOv8-OBB` · `PyTorch` · `FastAPI` · `React` · `Modal`
 
-* Machine Learning
-* Feature Engineering
-* Model Selection
-* Model Evaluation
-* Classification
-* Regression
-* Hyperparameter Optimization
+> Full-stack computer vision system for parking-space occupancy detection and classification.
 
-### Deep Learning
+→ **[View Repository](https://github.com/BasuPatil09/Smart-Parking-System)**
 
-* Deep Learning
-* Neural Networks
-* CNNs
-* Representation Learning
-* Transfer Learning
-* Model Training & Evaluation
+---
 
-### NLP
+### [AI ATS Resume Agent](https://github.com/BasuPatil09/AI-ATS-Resume-Agent)
 
-* Natural Language Processing
-* Text Classification
-* Text Preprocessing
-* TF-IDF
-* Embeddings
-* Sentiment Analysis
+`LangChain` · `Gemini` · `n8n` · `Apify`
 
-</td>
+> Autonomous AI workflow for job discovery, ATS optimization, and automated resume generation.
 
-<td width="50%" valign="top">
+→ **[View Repository](https://github.com/BasuPatil09/AI-ATS-Resume-Agent)**
 
-### Generative AI
+---
 
-* Generative AI
-* Large Language Models
-* Transformers
-* Prompt Engineering
-* LLM Fine-Tuning
-* AI Agents
+### [Sentiment Analysis](https://github.com/BasuPatil09/Sentiment-Analysis)
 
-### RAG
+`NLP` · `Scikit-learn` · `TF-IDF` · `Flask`
 
-* Retrieval-Augmented Generation
-* Semantic Search
-* Vector Search
-* Hybrid Search
-* Embeddings
-* Retrieval & Reranking
+> End-to-end sentiment classification system trained on the IMDB 50K review dataset.
 
-### Production AI
+→ **[View Repository](https://github.com/BasuPatil09/Sentiment-Analysis)**
 
-* Model Deployment
-* Model Serving
-* REST APIs
-* ML Systems
-* MLOps
-* Containerized Inference
+---
 
-</td>
-</tr>
-</table>
+### [Hybrid RAG](https://github.com/BasuPatil09/Hybrid-RAG)
+
+`Python` · `FastAPI` · `Docker` · `BM25` · `Cross-Encoder Reranking`
+
+> Hybrid retrieval-augmented generation system combining dense and sparse (BM25) search with cross-encoder reranking, grounded generation, LLM-verified citations, and composite confidence scoring — served with a lightweight frontend from a single Docker container.
+
+→ **[View Repository](https://github.com/BasuPatil09/Hybrid-RAG)**
 
 ---
 
@@ -180,97 +151,25 @@ The goal is consistent — turn AI/ML capabilities into **usable, measurable, pr
 
 ---
 
-## Featured Projects
-
-### [Smart Parking System](https://github.com/BasuPatil09/Smart-Parking-System)
-
-`YOLOv8-OBB` · `PyTorch` · `FastAPI` · `React` · `Modal`
-
-> Full-stack computer vision system for parking-space occupancy detection and classification.
-
-→ **[View Repository](https://github.com/BasuPatil09/Smart-Parking-System)**
-
----
-
-### [AI ATS Resume Agent](https://github.com/BasuPatil09/AI-ATS-Resume-Agent)
-
-`LangChain` · `Gemini` · `n8n` · `Apify`
-
-> Autonomous AI workflow for job discovery, ATS optimization, and automated resume generation.
-
-→ **[View Repository](https://github.com/BasuPatil09/AI-ATS-Resume-Agent)**
-
----
-
-### [Sentiment Analysis](https://github.com/BasuPatil09/Sentiment-Analysis)
-
-`NLP` · `Scikit-learn` · `TF-IDF` · `Flask`
-
-> End-to-end sentiment classification system trained on the IMDB 50K review dataset.
-
-→ **[View Repository](https://github.com/BasuPatil09/Sentiment-Analysis)**
-
----
-
-### [Hybrid RAG](https://github.com/BasuPatil09/Hybrid-RAG)
-
-`Python` · `FastAPI` · `Docker` · `BM25` · `Cross-Encoder Reranking`
-
-> Hybrid retrieval-augmented generation system combining dense and sparse (BM25) search with cross-encoder reranking, grounded generation, LLM-verified citations, and composite confidence scoring — served with a lightweight frontend from a single Docker container.
-
-→ **[View Repository](https://github.com/BasuPatil09/Hybrid-RAG)**
-
----
-
-## Engineering Principles
-
-<div align="center">
-
-`Understand` → `Build` → `Evaluate` → `Deploy` → `Improve`
-
-</div>
-
-* **Understand the model** — Know why it works, not only how to use it.
-* **Build reproducibly** — Keep experiments and pipelines repeatable.
-* **Measure performance** — Evaluate systems using meaningful metrics.
-* **Engineer for production** — Move beyond notebook-level implementations.
-* **Keep systems modular** — Separate data, models, inference, and application layers.
-* **Automate repetitive work** — Build systems that reduce operational overhead.
-
----
-
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BasuPatil09&bg_color=ffffff&color=0F172A&line=0A66C2&point=EE4C2C&area=true&hide_border=true" alt="GitHub Activity Graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasuPatil09&theme=default" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasuPatil09&theme=github_dark" alt="GitHub Profile Details" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BasuPatil09&theme=default" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BasuPatil09&theme=github_dark" height="180" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BasuPatil09&theme=default" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BasuPatil09&theme=github_dark" height="180" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BasuPatil09&theme=default" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BasuPatil09&theme=github_dark" height="180" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BasuPatil09&theme=default&utcOffset=5.5" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BasuPatil09&theme=github_dark&utcOffset=5.5" height="180" />
 
 </div>
-
----
-
-## Certifications
-
-* **[IBM Generative AI Engineering](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering)** — IBM / Coursera
-* **[Generative AI Engineering with LLMs](https://www.coursera.org/specializations/generative-ai-engineering-with-llms)** — IBM / Coursera
-* **[Deep Learning with Keras and TensorFlow](https://www.coursera.org/learn/deep-learning-with-keras-and-tensorflow)** — IBM / Coursera
-* **[AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials)** — Amazon Web Services / Coursera
 
 ---
 

@@ -50,13 +50,13 @@
 
 ## About
 
-I am a **Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning**, focused on building intelligent systems from experimentation through production deployment.
+I am a **Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning**, building intelligent systems from experimentation through production deployment.
 
-My work spans **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, Large Language Models, RAG systems, and model deployment**.
+My work spans machine learning, deep learning, computer vision, and generative AI — including large language models, retrieval-augmented generation, and applied NLP.
 
-I approach AI/ML engineering as a complete systems problem — understanding the model, building reliable pipelines around it, exposing inference through production APIs, and designing systems that can be evaluated, deployed, and maintained.
+I treat AI/ML engineering as a systems problem: understanding the model, building reliable pipelines around it, exposing inference through production APIs, and designing for evaluation, deployment, and long-term maintainability.
 
-My focus is on turning AI/ML capabilities into **usable, measurable, and production-oriented software** rather than treating models as isolated experiments.
+The goal is consistent — turn AI/ML capabilities into **usable, measurable, production-grade software**, not isolated experiments.
 
 ---
 
@@ -155,7 +155,7 @@ My focus is on turning AI/ML capabilities into **usable, measurable, and product
 <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-2563EB?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/NTLK-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ### Backend & Systems
@@ -212,6 +212,16 @@ My focus is on turning AI/ML capabilities into **usable, measurable, and product
 
 ---
 
+### [Hybrid RAG](https://github.com/BasuPatil09/Hybrid-RAG)
+
+`Python` · `FastAPI` · `Docker` · `BM25` · `Cross-Encoder Reranking`
+
+> Hybrid retrieval-augmented generation system combining dense and sparse (BM25) search with cross-encoder reranking, grounded generation, LLM-verified citations, and composite confidence scoring — served with a lightweight frontend from a single Docker container.
+
+→ **[View Repository](https://github.com/BasuPatil09/Hybrid-RAG)**
+
+---
+
 ## Engineering Principles
 
 <div align="center">
@@ -229,7 +239,7 @@ My focus is on turning AI/ML capabilities into **usable, measurable, and product
 
 ---
 
-## Modern Developer Profile
+## GitHub Activity
 
 <div align="center">
 
@@ -313,5 +323,9 @@ Selected for the **Final Round of Budget Quest – Youth Dialogue 2026**, repres
 <div align="center">
 
 <sub>AI/ML Engineering · Machine Learning · Deep Learning · NLP · Generative AI · LLMs · RAG</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0A66C2&height=130&section=footer" width="100%"/>
 
 </div>

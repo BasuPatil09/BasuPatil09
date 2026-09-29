@@ -1,230 +1,183 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=BASU+PATIL;AI%2FML+Engineering;Building+Intelligent+Systems+That+Ship" alt="BASU PATIL" />
+# Basu Patil
 
-<br/>
+*AI/ML Engineer — building, evaluating, and deploying intelligent systems.*
 
-<p>
-  <strong>AI/ML Engineer focused on building, deploying, and scaling intelligent systems.</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=guest%40basu-patil%3A~%24+whoami;Basu+Patil+-+AI%2FML+Engineer;guest%40basu-patil%3A~%24+cat+mission.txt;Turning+ML+research+into+production-grade+systems." alt="terminal intro" />
 
-<br/>
-
-<a href="https://basupatil.dev">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/basupatil09">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/BasuPatil09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/BasuPatil09">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<br/>
-
-<p>
-  <code>Machine Learning</code>
-  →
-  <code>Deep Learning</code>
-  →
-  <code>NLP</code>
-  →
-  <code>Generative AI</code>
-  →
-  <code>LLMs</code>
-  →
-  <code>RAG</code>
-  →
-  <code>Model Deployment</code>
-</p>
+| | |
+|---|---|
+| `portfolio` | [basupatil.dev](https://basupatil.dev) |
+| `linkedin`  | [basupatil09](https://www.linkedin.com/in/basupatil09) |
+| `github`    | [BasuPatil09](https://github.com/BasuPatil09) |
+| `leetcode`  | [BasuPatil09](https://leetcode.com/u/BasuPatil09) |
 
 </div>
 
 ---
 
-## About
+### `$ neofetch`
 
-I am a **Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning**, building intelligent systems from experimentation through production deployment.
+| | |
+|---|---|
+| **OS**     | AI/ML Engineering |
+| **Host**   | Computer Science & Engineering — AI/ML specialization |
+| **Kernel** | Python 3.x · C++17 |
+| **Shell**  | FastAPI · Flask · Node.js |
+| **DE**     | PyTorch · scikit-learn · LangChain · MLflow |
+| **Uptime** | 3+ years learning, building, shipping |
 
-My work spans machine learning, deep learning, computer vision, and generative AI — including large language models, retrieval-augmented generation, and applied NLP.
+### `$ cat about.md`
 
-I treat AI/ML engineering as a systems problem: understanding the model, building reliable pipelines around it, exposing inference through production APIs, and designing for evaluation, deployment, and long-term maintainability.
+```md
+I build AI systems end to end — the modeling and evaluation, the data and
+inference pipelines around them, and the APIs and infrastructure that serve
+them. My work spans computer vision, NLP, retrieval-augmented generation,
+and LLM-based agents.
 
-The goal is consistent — turn AI/ML capabilities into **usable, measurable, production-grade software**, not isolated experiments.
-
----
-
-## Featured Projects
-
-### [Smart Parking System](https://github.com/BasuPatil09/Smart-Parking-System)
-
-`YOLOv8-OBB` · `PyTorch` · `FastAPI` · `React` · `Modal`
-
-> Full-stack computer vision system for parking-space occupancy detection and classification.
-
-→ **[View Repository](https://github.com/BasuPatil09/Smart-Parking-System)**
-
----
-
-### [AI ATS Resume Agent](https://github.com/BasuPatil09/AI-ATS-Resume-Agent)
-
-`LangChain` · `Gemini` · `n8n` · `Apify`
-
-> Autonomous AI workflow for job discovery, ATS optimization, and automated resume generation.
-
-→ **[View Repository](https://github.com/BasuPatil09/AI-ATS-Resume-Agent)**
+A model only counts once it can be measured, deployed, and maintained.
+```
 
 ---
 
-### [Sentiment Analysis](https://github.com/BasuPatil09/Sentiment-Analysis)
+### `$ ls ~/projects --sort=impact`
 
-`NLP` · `Scikit-learn` · `TF-IDF` · `Flask`
+```
+drwxr-xr-x  smart-parking-system/
+drwxr-xr-x  ai-ats-resume-agent/
+drwxr-xr-x  sentiment-analysis-mlops/
+drwxr-xr-x  hybrid-rag/
+```
 
-> End-to-end sentiment classification system trained on the IMDB 50K review dataset.
+#### `$ cat smart-parking-system/README.md`
 
-→ **[View Repository](https://github.com/BasuPatil09/Sentiment-Analysis)**
+```md
+# Smart Parking System
+YOLOv8-OBB computer vision system for parking-space occupancy detection
+and classification.
+
+Stack     : YOLOv8-OBB, PyTorch, OpenCV, FastAPI, React, Modal
+Dataset   : PKLot (1,863 test images)
+mAP50     : 99.48%
+mAP50-95  : 99.47%
+Precision : 99.90%
+Recall    : 99.90%
+Inference : ~0.5-0.8s / image (CPU, 1600px)
+
+repo: https://github.com/BasuPatil09/Smart-Parking-System
+```
+
+#### `$ cat ai-ats-resume-agent/README.md`
+
+```md
+# AI ATS Resume Agent
+Autonomous n8n workflow that discovers relevant job openings and generates
+a tailored, ATS-optimized resume for each one.
+
+Stack      : n8n, LangChain, Gemini, Apify, Supabase, LaTeX
+Trigger    : daily, scheduled 07:00
+Throughput : up to 5 tailored resumes/day
+Pipeline   : Apify scrape -> Supabase dedup (2-stage) -> Gemini agent
+             -> LaTeX -> PDF -> Drive -> Gmail
+Nodes      : 26
+
+repo: https://github.com/BasuPatil09/AI-ATS-Resume-Agent
+```
+
+#### `$ cat sentiment-analysis-mlops/README.md`
+
+```md
+# Sentiment Analysis - NLP & MLOps Pipeline
+IMDB-50K review classifier operated as a full MLOps system rather than a
+one-off notebook model.
+
+Stack      : scikit-learn, NLTK, TF-IDF, MLflow, Flask, Docker, GitHub Actions
+Model      : SGD Classifier (registry champion)
+Accuracy   : 91.2%
+ROC-AUC    : 0.97
+Tests      : 31 (pytest)
+CI/CD      : build + health-check on every push (GitHub Actions)
+Monitoring : scheduled health check every 6h
+Deploy     : Docker on Render
+
+repo: https://github.com/BasuPatil09/Sentiment-Analysis
+demo: https://sentiment-analysis-icmn.onrender.com
+```
+
+#### `$ cat hybrid-rag/README.md`
+
+```md
+# Hybrid RAG
+Hybrid retrieval-augmented generation system - dense + sparse (BM25)
+retrieval, cross-encoder reranking, grounded generation, LLM-verified
+citations, and composite confidence scoring - served from a single
+Docker container.
+
+Stack    : Python, FastAPI, BM25, Cross-Encoder Reranking, Docker
+Frontend : vanilla HTML/CSS/JS, served from the same container
+
+repo: https://github.com/BasuPatil09/Hybrid-RAG
+```
 
 ---
 
-### [Hybrid RAG](https://github.com/BasuPatil09/Hybrid-RAG)
+### `$ cat stack.yml`
 
-`Python` · `FastAPI` · `Docker` · `BM25` · `Cross-Encoder Reranking`
-
-> Hybrid retrieval-augmented generation system combining dense and sparse (BM25) search with cross-encoder reranking, grounded generation, LLM-verified citations, and composite confidence scoring — served with a lightweight frontend from a single Docker container.
-
-→ **[View Repository](https://github.com/BasuPatil09/Hybrid-RAG)**
-
----
-
-## Technical Stack
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B%2017-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-7C3AED?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20Fine--Tuning-2563EB?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### Backend & Systems
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/MLOps-0F172A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
-
-### Data & Analysis
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+```yaml
+languages:      [Python, C++, JavaScript, SQL]
+ai_ml:          [PyTorch, scikit-learn, Hugging Face, OpenCV, LangChain, MLflow]
+backend_devops: [FastAPI, Flask, Node.js, Docker, GitHub Actions, Linux]
+data:           [Pandas, NumPy, Matplotlib, Seaborn]
+```
 
 ---
 
-## GitHub Activity
+### `$ git log --stat --author="Basu Patil"`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasuPatil09&theme=github_dark" alt="GitHub Profile Details" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BasuPatil09&theme=github_dark" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BasuPatil09&theme=github_dark">
+  <img alt="GitHub stats" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BasuPatil09&theme=default">
+</picture>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BasuPatil09&theme=github_dark" height="180" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BasuPatil09&theme=github_dark" height="180" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BasuPatil09&theme=github_dark&utcOffset=5.5" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BasuPatil09&theme=github_dark">
+  <img alt="Most used languages" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BasuPatil09&theme=default">
+</picture>
 
 </div>
 
 ---
 
-## Achievements
+### `$ tail -f achievements.log`
 
-### Runner-Up — TECHNOTSAV 2K26 National Webathon
+```
+[ACHIEVEMENT]  Runner-Up - TECHNOTSAV 2K26 National Webathon (70+ teams, India)
+               -> Land Ownership Management System: real-time, transparent
+                  access to land records
 
-Secured **Runner-Up among 70+ teams across India** by building a full-stack **Land Ownership Management System** for transparent, real-time access to land records.
-
-### Karnataka Youth Representative — MY BHARAT Budget Quest 2026
-
-Selected for the **Final Round of Budget Quest – Youth Dialogue 2026**, representing Karnataka among participants from **36 states/UTs**.
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://basupatil.dev">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/basupatil09">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/BasuPatil09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/BasuPatil09">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<br/><br/>
-
-<a href="mailto:BasuPatil09@outlook.com">
-<img src="https://img.shields.io/badge/Email-BasuPatil09%40outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<strong>Building intelligent systems. Engineering them for production.</strong>
-
-</div>
+[SELECTED]     Karnataka Youth Representative - MY BHARAT Budget Quest 2026
+               -> Final Round, Budget Quest - Youth Dialogue 2026
+                  (36 states/UTs)
+```
 
 ---
 
-<div align="center">
+### `$ contact --list`
 
-<sub>AI/ML Engineering · Machine Learning · Deep Learning · NLP · Generative AI · LLMs · RAG</sub>
+| | |
+|---|---|
+| `email`     | [BasuPatil09@outlook.com](mailto:BasuPatil09@outlook.com) |
+| `portfolio` | [basupatil.dev](https://basupatil.dev) |
+| `linkedin`  | [basupatil09](https://www.linkedin.com/in/basupatil09) |
+| `github`    | [BasuPatil09](https://github.com/BasuPatil09) |
 
-<br/>
+```bash
+$ echo "thanks for stopping by"
+thanks for stopping by
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0A66C2&height=130&section=footer" width="100%"/>
-
-</div>
+$ exit
+process finished with exit code 0
+```
